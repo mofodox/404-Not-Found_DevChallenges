@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://https://404-not-found-dev-challenges-one.vercel.app/">
       Demo
     </a>
     <span> | </span>
@@ -30,7 +30,6 @@
   - [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
 
@@ -41,10 +40,13 @@
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
-You can see the demo [here](https://)
+You can see the demo [here](https://404-not-found-dev-challenges-one.vercel.app/)
 - What was your experience?
+The experience was great and I'm loving the idea of this dev challenge.
 - What have you learned/improved?
+I learned about Flexbox and maybe the improvement is that I can make it better in terms of the structure and styling.
 - Your wisdom? :)
+Keep going and let's learn together!
 
 ### Built With
 
